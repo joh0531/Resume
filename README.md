@@ -1,5 +1,5 @@
 # Resume
-My resume
+Jewon Oh's resume
 ## Built With
 * HTML
 * CSS

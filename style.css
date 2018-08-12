@@ -30,7 +30,7 @@ ul {
 .main {
     float: right;
     width: 70%;
-    padding: 20px;
+    padding: 12px 20px;
 }
 
 .main h2, .sidebar h2 {

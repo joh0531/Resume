@@ -29,8 +29,9 @@ ul {
 
 .main {
     float: right;
+    height: 11in;
     width: 70%;
-    padding: 10px 14px;
+    padding: 14px;
 }
 
 .main h2, .sidebar h2 {

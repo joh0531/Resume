@@ -75,8 +75,8 @@ ul {
     text-align: center;
     font-weight: 600;
     font-size: 28pt;
-    margin-top: 16px;
-    margin-bottom: 16px;
+    margin-top: 12px;
+    margin-bottom: 12px;
 }
 
 .sidebar li {
@@ -119,7 +119,7 @@ ul {
     float: right;
 }
 
-.fab, .fas {
+.fa, .fab, .fas {
     height: 16px;
     margin-right: 4px;
     text-align: center;

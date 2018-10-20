@@ -67,7 +67,6 @@ ul {
     float: left;
     width: 30%;
     height: 11in;
-    background-color: #F2F2F2;
     padding: 0px 20px 0px 20px;
 }
 
@@ -101,7 +100,6 @@ ul {
 }
 
 .languages1 li, .languages2 li, .skills1 li, .skills2 li {
-    background-color: #E0E0E0;
     border: 1px solid black;
     border-radius: 15px;
     padding: 6px 10px 6px 10px;

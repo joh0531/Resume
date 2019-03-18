@@ -41,10 +41,12 @@ hr {
     margin: 2px 0px 2px 0px;
 }
 
+/* main */
+
 .main {
     float: right;
-    width: 70%;
-    padding: 14px;
+    width: 72%;
+    padding: 20px 20px 20px 10px;
 }
 
 .main h2 {
@@ -64,11 +66,17 @@ hr {
     padding-left: 20px;
 }
 
+.place {
+    float: right;
+}
+
+/* sidebar */
+
 .sidebar {
     float: left;
-    width: 30%;
+    width: 28%;
     height: 11in;
-    padding: 0px 20px 0px 20px;
+    padding: 20px 10px 20px 20px;
 }
 
 .sidebar h1 {
@@ -81,28 +89,22 @@ hr {
     margin: 0px;
 }
 
-.sidebar li {
-    list-style-type: none;
-    padding-top: 1px;
-    padding-bottom: 1px;
-}
-
 .sidebar ul {
     padding-left: 0px;
     margin-left: 0px;
     margin-right: 0px;
+    list-style-type: none;
 }
 
 .address {
     padding-left: 24px;
 }
 
-.languages1, .languages2, .skills1, .skills2 {
-    margin-left: 6px;
-    margin-right: 6px;
+.bubble-list {
+    margin: 1px 6px 1px 6px;
 }
 
-.languages1 li, .languages2 li, .skills1 li, .skills2 li {
+.bubble-list li {
     border: 1px solid black;
     border-radius: 15px;
     padding: 6px 10px 6px 10px;
@@ -112,21 +114,19 @@ hr {
     width: 90px;
 }
 
-.languages1, .skills1 {
+.left {
     float: left;
 }
 
-.languages2, .skills2 {
+.right {
     float: right;
 }
+
+/* icons */
 
 .fa, .fab, .fas {
-    height: 16px;
+    height: 14px;
     margin-right: 4px;
     text-align: center;
-    width: 18px;
-}
-
-.place {
-    float: right;
+    width: 16px;
 }
